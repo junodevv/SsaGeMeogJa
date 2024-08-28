@@ -1,3 +1,5 @@
+<img src="./assets/sgmj_cover.jpg" width="700" alt="싸게먹자표지">
+
 # SsaGeMeogJa(싸게먹자) Backend
 
 ## 프로젝트 개요
@@ -30,3 +32,4 @@
 - 카카오맵 활용 서비스 구현
 
 ## 아키텍처
+<img src="./assets/sgmj_architecture.png" width="700" alt="싸게먹자아키텍처">
